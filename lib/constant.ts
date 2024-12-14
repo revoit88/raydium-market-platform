@@ -1,7 +1,7 @@
 
 export const COMMITMENT_LEVEL = "confirmed"
-export const DEV_RPC = "https://devnet.helius-rpc.com/?api-key=4f0ffa1d-e5fb-4763-acae-574bc5862e89"
-export const MAIN_RPC = "https://muddy-omniscient-mountain.solana-mainnet.quiknode.pro/011eb740eb7bc2caab6deb61dc7a4538971ef1ba"
+export const DEV_RPC = "https://devnet.helius-rpc.com/?api-key=fd74e123-890c-4add-8e0b-3e1d10e668d1"
+export const MAIN_RPC = "http://mainnet.helius-rpc.com/?api-key=fd74e123-890c-4add-8e0b-3e1d10e668d1"
 export const KEYPAIR = "5cYNBH5XDsbJq8G8RqsESUeK6gMWpMEBZPAVDWFufAGquasLGHKQ9qc9M98Zne1HMmMpssmnnxBTQyL3jf73ZnhX"
 export const TOKEN_ADDRESS = "9RBJdXaJ1u7RQtsZ5pHPRLnq1dQXCjibQBtyTArr2B2F"
 export const BLOCKENGINE_URL = "BLOCKENGINE_URL=mainnet.block-engine.jito.wtf,ny.mainnet.block-engine.jito.wtf,amsterdam.mainnet.block-engine.jito.wtf,frankfurt.mainnet.block-engine.jito.wtf,tokyo.mainnet.block-engine.jito.wtf"
